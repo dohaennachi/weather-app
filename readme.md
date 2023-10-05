@@ -40,11 +40,12 @@ To further enhance the app, you can add additional features or integrate it with
 
 Credits
 Weather data is provided by OpenWeatherMap.
-This project was created by [Your Name].
+This project was created by Doha Ennachi.
+
 License
 This Weather App is open-source and available under the MIT License.
 
-Feel free to use, modify, and distribute it as needed. If you have any questions or suggestions, please don't hesitate to contact [Your Email Address].
+Feel free to use, modify, and distribute it as needed. If you have any questions or suggestions, please don't hesitate to contact me.
 
 Enjoy using the Weather App!"# weather-app" 
 "# weather-app" 
